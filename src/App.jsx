@@ -9,7 +9,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <article className='bg-black w-screen h-screen px-6 md:px-12 lg:px-16'>
+    <article className='bg-black w-screen px-6 md:px-12 lg:px-16'>
       <Navbar />
       <Logica />
     </article>
